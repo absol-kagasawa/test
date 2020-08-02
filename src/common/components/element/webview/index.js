@@ -61,7 +61,7 @@ export default function WebViewCustom({
   };
   return (
     <>
-      {/* <StatusBar barStyle="dark-content" backgroundColor="white" /> */}
+      <StatusBar barStyle="dark-content" backgroundColor="white" />
       <View style={styles.container}>
         <SafeAreaView style={styles.container}>
           <View style={styles.container}>
